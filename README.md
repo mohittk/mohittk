@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohittk
+- 👋 Hi, I’m Mohit Khairnar.
 - 👀 I’m interested in Web Development, Competitive programming.
 - 🌱 I’m currently learning Front-end web development
 - 💞️ I’m have learnt HTML, CSS, Javascript, C/C++
