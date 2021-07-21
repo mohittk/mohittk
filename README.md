@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Front-end web development
 - 💞️ I’m have learnt HTML, CSS, Javascript, C/C++
 - 📫 For reaching me mail me at mvk1407@gmail.com.
+- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mohittk)______![Twitter Follow](https://img.shields.io/twitter/follow/MohitKhairnar12?style=social) _____![Discord](https://img.shields.io/discord/783758394166345779)
+- ![Mohit khairnar's Stats](https://github-readme-stats.vercel.app/api?username=mohittk&theme=blue-green&show_icons=true)
 
-<!---
-mohittk/mohittk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
