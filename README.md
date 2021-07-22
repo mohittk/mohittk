@@ -55,9 +55,8 @@
 <a href="https://github.com/mohittk"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=mohittk.visitor-badge" /></a>
 
 </p>
+		
+![Mohit khairnar's Stats](https://github-readme-stats.vercel.app/api?username=mohittk&theme=blue-green&show_icons=true)     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittk&langs_count=8&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- ![Twitter Follow](https://img.shields.io/twitter/follow/MohitKhairnar12?style=social)
-- ![Discord](https://img.shields.io/discord/783758394166345779)
-- ![Mohit khairnar's Stats](https://github-readme-stats.vercel.app/api?username=mohittk&theme=blue-green&show_icons=true)
 
