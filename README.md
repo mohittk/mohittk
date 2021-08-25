@@ -15,6 +15,7 @@
  <code><a href="https://www.wikiwand.com/en/C%2B%2B"><img  alt="Css" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" /></a></code>
  <code><a href="https://www.wikiwand.com/en/C%2B%2B"><img  alt="html" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" /></a></code>
 <code><a href="https://code.visualstudio.com"> <img alt="Visual Studio Code" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a></code>
+	<code><a href="https://code.visualstudio.com"> <img alt="React" height="40px" src="https://w7.pngwing.com/pngs/831/155/png-transparent-game-react-native-javascript-android-physics-symmetry-web-application-vuejs-thumbnail.png"/></a></code>
  </p>
  
 <p align="center" >
