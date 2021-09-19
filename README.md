@@ -1,4 +1,4 @@
- <h1 align="center">👋 Hi, I’m Mohit Khairnar.</h1>
+ <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mohit Khairnar.</h1>
 
 <h2 align="center">
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
@@ -41,11 +41,25 @@
 <table align="center">
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=mohittk&theme=blue-green&show_icons=true" alt="Saurav Mukherjee" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittk&langs_count=8&theme=blue-green" alt="Saurav Mukherjee" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=mohittk&theme=blue-green&show_icons=true" alt="mohit khairnar" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittk&langs_count=8&theme=blue-green" alt="mohit khairnar" /></td>
   </tr>
 </table>
-	 [![mohits's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mohittk&theme=xcode)](https://git.io/mohittk)
+ <h2 align="center">
+━━━━━━━━━━━━| Projects |━━━━━━━━━━━━</h2>
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [My Portfolio Website](https://mohittk.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript
+| [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
+| [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS.
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohittk&theme=dark" alt="mohit khairnar" /></p>
+  </div>
+
+<a href="https://git.io/mohittk"><img src="https://activity-graph.herokuapp.com/graph?username=mohittk&theme=nord" /></a>
 	
 
 
