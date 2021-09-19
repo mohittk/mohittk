@@ -45,9 +45,9 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittk&langs_count=8&theme=blue-green" alt="Saurav Mukherjee" /></td>
   </tr>
 </table>
-	 [![mohits's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mohittk&theme=xcode)](https://git.io/mohittk)
 	
-
-
+	
+ 
+<a href="https://git.io/mohittk"><img  src="https://activity-graph.herokuapp.com/graph?username=mohittk&theme=xcode"  /></a>
 
 
