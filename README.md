@@ -2,7 +2,7 @@
 
 <h2 align="center">
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
-  <h3 align="center">Web Development | Cloud Computing | Competitive programming</h3>
+  <h3 align="center">Web Development | Cloud Computing | Machine Learning</h3>
 
 
  <h2 align="center">
