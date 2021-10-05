@@ -52,9 +52,10 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://mohittk.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript
+| [Space Voyager](https://github.com/space-voyager-21/space-voyager)     | Space Exploration website.
 | [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
 | [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS.
-| [Space Voyager](https://github.com/space-voyager-21/space-voyager)     | Space planets information using API.
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohittk&theme=dark" alt="mohit khairnar" /></p>
