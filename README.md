@@ -6,7 +6,7 @@
 
 
  <h2 align="center">
-━━━━━━━━━━━━| Skills |━━━━━━━━━━━━</h2>
+━━━━━━━━━━━━| Tech Skills |━━━━━━━━━━━━</h2>
 
  <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
