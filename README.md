@@ -4,8 +4,7 @@
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
   <h3 align="center">Web Development | Cloud Computing | Machine Learning</h3>
   <h2 align="center">
-━━━━━━━━━━━━| Sports I'm good at |━━━━━━━━━━━━</h2>
-  <h3 align="center">Badminton | Cricket | Running | Fencing | Swimming </h3>
+
 
 
  <h2 align="center">
@@ -26,6 +25,8 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     
 </p>
+	━━━━━━━━━━━━| Sports I'm good at |━━━━━━━━━━━━</h2>
+  <h3 align="center">Badminton | Cricket | Running | Fencing | Swimming </h3>
 
  <h2 align="center">
 ━━━━━━━━━━━━| Connect Me |━━━━━━━━━━━━</h2>
