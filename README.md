@@ -4,7 +4,8 @@
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
   <h3 align="center">Web Development | Cloud Computing | Machine Learning</h3>
   <h2 align="center">
-<img src="https://user-images.githubusercontent.com/79041510/139594234-4ae2f798-9f5c-47ef-bd85-9586cdae173f.png" >
+<img src="https://user-images.githubusercontent.com/79041510/144733346-0abc2cb9-7b83-47ef-aca4-8899d1d7e92a.png" />
+
 
 
 
