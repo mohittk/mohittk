@@ -60,8 +60,8 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://mohittk.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript
-| [Space Voyager](https://space-voyager.vercel.app)     | Space Exploration website.
-| [Techtronics](https://techtronics.vercel.app)     | ECE students web dev website.
+| [Space Voyager](https://space-voyager.netlify.app)     | Space Exploration website.
+| [Techtronics](https://techtronics1.netlify.app)     | ECE students web dev website.
 | [Being Indian](https://being-indian.netlify.app)     | A glimpse of Incredible India.
 | [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
 | [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS.
