@@ -59,6 +59,7 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
+| [Frontier](https://cosmofrontier.netlify.app/)     | Realtime 3D solar system exploration website.
 | [My Portfolio Website](https://mohittk.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript
 | [Space Voyager](https://space-voyager.netlify.app)     | Space Exploration website.
 | [Techtronics](https://techtronics1.netlify.app)     | ECE students web dev website.
