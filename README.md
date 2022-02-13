@@ -86,7 +86,7 @@
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/mohittk/readme-trial/blob/master/generated/overview.svg)
-z
+![](https://github.com/mohittk/readme-trial/blob/master/generated/languages.svg)
 
 </a>
 
