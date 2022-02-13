@@ -4,18 +4,18 @@
  <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mohit Khairnar.</h1>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
-<h4>🌱 I’m currently learning Typescript, AWS, MERN </h4>
+🌱 I’m currently learning **Typescript, AWS, MERN**
 
-<h4>💬 Ask me about React, NodeJS, Frontend Tools </h4>
+💬 Ask me about **React, NodeJS, Frontend Tools**
 
-<h4>📫 How to reach me mvk1407@gmail.com </h4>
+📫 How to reach me **mvk1407@gmail.com**
 
 </div>
 
 
 <div class="container" style="margin-top: 100px">
 <details>
-<summary style="font-weight: bold"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Light_Bulb_or_Idea_Flat_Icon_Vector.svg/1200px-Light_Bulb_or_Idea_Flat_Icon_Vector.svg.png" width="5%">My Interests</summary>
+<summary style="font-weight: bold"> My Interests</summary>
 <ul>
   <li style="font-weight: bold">Front-end development<img src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/app_frontend_end_front_front-end_front_end_development-512.png" width="5%"></li>
     <li style="font-weight: bold">Back-end development <img src="https://cdn3.iconfinder.com/data/icons/seo-and-web-outline-28/64/seo-and-web-outline-28-20-512.png" width="5%"></li>
@@ -23,9 +23,10 @@
     </ul>
 
 </details>
+<br>
 
 <details>
- <summary style="font-weight: bold"><img src="https://cdn-icons-png.flaticon.com/512/1875/1875994.png" width="5%">Tech skills</summary>
+ <summary style="font-weight: bold">Tech skills</summary>
 
  <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -45,9 +46,11 @@
 </details>
 </div>
 
+<br>
+
 
 <details>
-<summary style="font-weight: bold"><img src="https://icons.veryicon.com/png/o/miscellaneous/flat-style-1/contact-us-11.png" width="5%" >Connect Me </summary>
+<summary style="font-weight: bold">Connect Me </summary>
 <p align="center">
  <a href="https://mvk1407@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
  <a href="https://www.linkedin.com/in/mohit-k-74199a137"><img alt="lkdn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
