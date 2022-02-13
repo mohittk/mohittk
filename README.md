@@ -4,7 +4,7 @@
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
   <h3 align="center">Web Development | Cloud Computing </h3>
   <h2 align="center">
-<img src="https://user-images.githubusercontent.com/79041510/144733346-0abc2cb9-7b83-47ef-aca4-8899d1d7e92a.png" />
+
 
 
 
@@ -72,6 +72,16 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohittk&theme=dark" alt="mohit khairnar" /></p>
   </div>
+	
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/mohittk/readme-trial/blob/master/generated/overview.svg)
+![](https://github.com/mohittk/readme-trial/blob/master/generated/languages.svg)
+
+</a>
+
+
 
 <a href="https://git.io/mohittk"><img src="https://activity-graph.herokuapp.com/graph?username=mohittk&theme=nord" /></a>
 	
