@@ -4,9 +4,9 @@
  <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mohit Khairnar.</h1>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
-<h4>🌱 I’m currently learning **Typescript, AWS, MERN </h4>
+<h4>🌱 I’m currently learning Typescript, AWS, MERN </h4>
 
-<h4>💬 Ask me about **React, NodeJS, Frontend Tools </h4>
+<h4>💬 Ask me about React, NodeJS, Frontend Tools </h4>
 
 <h4>📫 How to reach me mvk1407@gmail.com </h4>
 
@@ -83,7 +83,7 @@
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/mohittk/readme-trial/blob/master/generated/overview.svg)
-![](https://github.com/mohittk/readme-trial/blob/master/generated/languages.svg)
+z
 
 </a>
 
