@@ -1,18 +1,31 @@
+
+<div class="hero">
+ 
  <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mohit Khairnar.</h1>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
-<h2 align="center">
-━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
-  <h3 align="center">Web Development | Cloud Computing </h3>
-  <h2 align="center">
+<h4>🌱 I’m currently learning **Typescript, AWS, MERN </h4>
+
+<h4>💬 Ask me about **React, NodeJS, Frontend Tools </h4>
+
+<h4>📫 How to reach me mvk1407@gmail.com </h4>
+
+</div>
 
 
+<div class="container" style="margin-top: 100px">
+<details>
+<summary style="font-weight: bold"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Light_Bulb_or_Idea_Flat_Icon_Vector.svg/1200px-Light_Bulb_or_Idea_Flat_Icon_Vector.svg.png" width="5%">My Interests</summary>
+<ul>
+  <li style="font-weight: bold">Front-end development<img src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/app_frontend_end_front_front-end_front_end_development-512.png" width="5%"></li>
+    <li style="font-weight: bold">Back-end development <img src="https://cdn3.iconfinder.com/data/icons/seo-and-web-outline-28/64/seo-and-web-outline-28-20-512.png" width="5%"></li>
+    <li style="font-weight: bold">Cloud Computing <img src="https://cdn-icons-png.flaticon.com/512/179/179698.png" width="5%"></li>
+    </ul>
 
+</details>
 
-
-
-
- <h2 align="center">
-━━━━━━━━━━━━| Tech Skills |━━━━━━━━━━━</h2>
+<details>
+ <summary style="font-weight: bold"><img src="https://cdn-icons-png.flaticon.com/512/1875/1875994.png" width="5%">Tech skills</summary>
 
  <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -29,51 +42,44 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     
 </p>
-	<h2 align="center" >━━━━━━━━━━━━| Sports I'm good at |━━━━━━━━━━━━</h2>
-  <h3 align="center">Badminton | Cricket | Running | Fencing | Swimming </h3>
+</details>
+</div>
 
- <h2 align="center">
-━━━━━━━━━━━━| Connect Me |━━━━━━━━━━━━</h2>
+
+<details>
+<summary style="font-weight: bold"><img src="https://icons.veryicon.com/png/o/miscellaneous/flat-style-1/contact-us-11.png" width="5%" >Connect Me </summary>
 <p align="center">
  <a href="https://mvk1407@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
  <a href="https://www.linkedin.com/in/mohit-k-74199a137"><img alt="lkdn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://www.instagram.com/mohitt_khairnar/"><img alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://twitter.com/MohitKhairnar12"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-<a href="https://github.com/mohittk"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-	</p>
+<a href="https://twitter.com/MohitKhairnar12"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+</p>
+</details>
 
 <p align="center">
-<a href="https://github.com/mohittk"><img alt="Counter"src="https://visitor-badge.glitch.me/badge?page_id=mohittk.visitor-badge" /></a>
+
+ <h2>Projects</h2>
+
+|                           Project Name                           | Description                                           |
+| :--------------------------------------------------------------: | :---------------------------------------------------- |
+|          [Frontier](https://cosmofrontier.netlify.app/)          | Realtime 3D solar system exploration website.         |
+|        [My Portfolio Website](https://mohittk.github.io/)        | Portfolio website build using HTML5, CSS3, JavaScript |
+|        [Space Voyager](https://space-voyager.netlify.app)        | Space Exploration website.                            |
+|         [Techtronics](https://techtronics1.netlify.app)          | ECE students web dev website.                         |
+|         [Being Indian](https://being-indian.netlify.app)         | A glimpse of Incredible India.                        |
+|   [Weather App](https://mohittk.github.io/React-Weather-App/)    | Weather-API app made using ReactJS.                   |
+| [Certificate maker](https://neos-certificate-maker.netlify.app/) | Certificate maker built using JS and CSS.             |
+
 </p>
 
 <table align="center">
   <tr>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=mohittk&theme=blue-green&show_icons=true" alt="mohit khairnar" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittk&langs_count=8&theme=blue-green" alt="mohit khairnar" /></td>
-  </tr>
+</td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohittk&theme=dark" alt="mohit khairnar" />
+</td>
+   
 </table>
- <h2 align="center">
-━━━━━━━━━━━━| Projects |━━━━━━━━━━━━</h2>
-
-
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Frontier](https://cosmofrontier.netlify.app/)     | Realtime 3D solar system exploration website.
-| [My Portfolio Website](https://mohittk.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript
-| [Space Voyager](https://space-voyager.netlify.app)     | Space Exploration website.
-| [Techtronics](https://techtronics1.netlify.app)     | ECE students web dev website.
-| [Being Indian](https://being-indian.netlify.app)     | A glimpse of Incredible India.
-| [Weather App](https://mohittk.github.io/React-Weather-App/)     | Weather-API app made using ReactJS.
-| [Certificate maker](https://neos-certificate-maker.netlify.app/)     | Certificate maker built using JS and CSS.
-	
-
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohittk&theme=dark" alt="mohit khairnar" /></p>
-  </div>
-	
-
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/mohittk/readme-trial/blob/master/generated/overview.svg)
@@ -81,9 +87,4 @@
 
 </a>
 
-
-
 <a href="https://git.io/mohittk"><img src="https://activity-graph.herokuapp.com/graph?username=mohittk&theme=nord" /></a>
-	
-
-
