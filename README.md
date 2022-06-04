@@ -1,7 +1,7 @@
 
 <div class="hero">
  
- <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mohit Khairnar.</h1>
+ <h1 align="center"> Hi, I’m Mohit Khairnar.</h1>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
 🌱 I’m currently learning **Typescript, AWS, MERN**
