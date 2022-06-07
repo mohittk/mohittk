@@ -64,6 +64,7 @@
 
 |                           Project Name                           | Description                                           |
 | :--------------------------------------------------------------: | :---------------------------------------------------- |
+|          [Easy Jobs](https://easy-jobs-now.herokuapp.com/)          | Job based website.         |
 |          [Frontier](https://cosmofrontier.netlify.app/)          | Realtime 3D solar system exploration website.         |
 |        [My Portfolio Website](https://mohittk.github.io/)        | Portfolio website build using HTML5, CSS3, JavaScript |
 |        [Space Voyager](https://space-voyager.netlify.app)        | Space Exploration website.                            |
