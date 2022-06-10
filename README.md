@@ -88,6 +88,7 @@
 
 ![](https://github.com/mohittk/readme-trial/blob/master/generated/overview.svg)
 ![](https://github.com/mohittk/readme-trial/blob/master/generated/languages.svg)
+ ![v](https://github-readme-stats.vercel.app/api/wakatime?username=mohittk&layout=compact&theme=radical)
 
 </a>
 
