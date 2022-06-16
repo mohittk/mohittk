@@ -4,7 +4,7 @@
  <h1 align="center"> Hi, I’m Mohit Khairnar.</h1>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
-🌱 I’m currently learning **Typescript, AWS, MERN**
+🌱 I’m currently learning **Typescript, AWS, GraphQL, arangoDB**
 
 💬 Ask me about **React, NodeJS, Frontend Tools**
 
