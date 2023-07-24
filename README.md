@@ -77,9 +77,7 @@
 
 <table align="center">
   <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=mohittk&theme=blue-green&show_icons=true" alt="mohit khairnar" />
-</td>
+
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohittk&theme=dark" alt="mohit khairnar" />
 </td>
    
